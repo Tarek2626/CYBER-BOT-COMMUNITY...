@@ -1,4 +1,4 @@
-: Node.js CI
+me: Node.js CI
 
 on:
   workflow_dispatch:
